@@ -1,0 +1,359 @@
+[
+  {
+    "anomaly_confidence": 0.0,
+    "captured_at": "2026-05-23T12:35:45.942738+00:00",
+    "decision": "allow",
+    "explanation": "Typing behavior deviates from the baseline with 0.0% anomaly confidence. Risk score 0.0 leads to a allow decision.",
+    "model_kind": "isolation_forest",
+    "risk_score": 0.0,
+    "session_id": "RUN-VERIFY-004",
+    "signals": {
+      "anomaly_confidence": 0.0,
+      "failed_attempts": 0.0,
+      "historical_inconsistency": 0.0,
+      "typing_deviation": 0.0
+    },
+    "token_issued": true,
+    "user_id": "run.check"
+  },
+  {
+    "anomaly_confidence": 50.0,
+    "captured_at": "2026-05-23T12:40:45.221415+00:00",
+    "decision": "allow",
+    "explanation": "Typing behavior deviates from the baseline with 50.0% anomaly confidence. Risk score 17.5 leads to a allow decision.",
+    "model_kind": "isolation_forest",
+    "risk_score": 17.5,
+    "session_id": "_R_1klrlb_",
+    "signals": {
+      "anomaly_confidence": 50.0,
+      "failed_attempts": 0.0,
+      "historical_inconsistency": 0.0,
+      "typing_deviation": 0.0
+    },
+    "token_issued": true,
+    "user_id": "run.check"
+  },
+  {
+    "anomaly_confidence": 50.0,
+    "captured_at": "2026-05-23T12:40:58.243551+00:00",
+    "decision": "allow",
+    "explanation": "Typing behavior deviates from the baseline with 50.0% anomaly confidence. Risk score 17.5 leads to a allow decision.",
+    "model_kind": "isolation_forest",
+    "risk_score": 17.5,
+    "session_id": "_R_1klrlb_",
+    "signals": {
+      "anomaly_confidence": 50.0,
+      "failed_attempts": 0.0,
+      "historical_inconsistency": 0.0,
+      "typing_deviation": 0.0
+    },
+    "token_issued": true,
+    "user_id": "run.check"
+  },
+  {
+    "anomaly_confidence": 50.0,
+    "captured_at": "2026-05-23T12:41:05.864026+00:00",
+    "decision": "allow",
+    "explanation": "Typing behavior deviates from the baseline with 50.0% anomaly confidence. Risk score 17.5 leads to a allow decision.",
+    "model_kind": "isolation_forest",
+    "risk_score": 17.5,
+    "session_id": "_R_1klrlb_",
+    "signals": {
+      "anomaly_confidence": 50.0,
+      "failed_attempts": 0.0,
+      "historical_inconsistency": 0.0,
+      "typing_deviation": 0.0
+    },
+    "token_issued": true,
+    "user_id": "run.check"
+  },
+  {
+    "anomaly_confidence": 50.0,
+    "captured_at": "2026-05-23T12:43:26.700259+00:00",
+    "decision": "allow",
+    "explanation": "Typing behavior deviates from the baseline with 50.0% anomaly confidence. Risk score 17.5 leads to a allow decision.",
+    "model_kind": "isolation_forest",
+    "risk_score": 17.5,
+    "session_id": "RUN-VERIFY-005",
+    "signals": {
+      "anomaly_confidence": 50.0,
+      "failed_attempts": 0.0,
+      "historical_inconsistency": 0.0,
+      "typing_deviation": 0.0
+    },
+    "token_issued": true,
+    "user_id": "run.check"
+  },
+  {
+    "anomaly_confidence": 50.0,
+    "captured_at": "2026-05-23T12:47:33.413074+00:00",
+    "decision": "allow",
+    "explanation": "Typing behavior deviates from the baseline with 50.0% anomaly confidence. Risk score 17.5 leads to a allow decision.",
+    "model_kind": "isolation_forest",
+    "risk_score": 17.5,
+    "session_id": "_R_1klrlb_",
+    "signals": {
+      "anomaly_confidence": 50.0,
+      "failed_attempts": 0.0,
+      "historical_inconsistency": 0.0,
+      "typing_deviation": 0.0
+    },
+    "token_issued": true,
+    "user_id": "run.check"
+  },
+  {
+    "anomaly_confidence": 50.0,
+    "captured_at": "2026-05-23T12:51:53.103519+00:00",
+    "decision": "allow",
+    "explanation": "Typing behavior deviates from the baseline with 50.0% anomaly confidence. Risk score 17.5 leads to a allow decision.",
+    "model_kind": "isolation_forest",
+    "risk_score": 17.5,
+    "session_id": "_R_1klrlb_",
+    "signals": {
+      "anomaly_confidence": 50.0,
+      "failed_attempts": 0.0,
+      "historical_inconsistency": 0.0,
+      "typing_deviation": 0.0
+    },
+    "token_issued": true,
+    "user_id": "run.check"
+  },
+  {
+    "anomaly_confidence": 50.0,
+    "captured_at": "2026-05-23T12:52:05.423085+00:00",
+    "decision": "allow",
+    "explanation": "Typing behavior deviates from the baseline with 50.0% anomaly confidence. Risk score 17.5 leads to a allow decision.",
+    "model_kind": "isolation_forest",
+    "risk_score": 17.5,
+    "session_id": "_R_1klrlb_",
+    "signals": {
+      "anomaly_confidence": 50.0,
+      "failed_attempts": 0.0,
+      "historical_inconsistency": 0.0,
+      "typing_deviation": 0.0
+    },
+    "token_issued": true,
+    "user_id": "run.check"
+  },
+  {
+    "anomaly_confidence": 50.0,
+    "captured_at": "2026-05-23T12:52:16.972274+00:00",
+    "decision": "allow",
+    "explanation": "Typing behavior deviates from the baseline with 50.0% anomaly confidence. Risk score 17.5 leads to a allow decision.",
+    "model_kind": "isolation_forest",
+    "risk_score": 17.5,
+    "session_id": "_R_1klrlb_",
+    "signals": {
+      "anomaly_confidence": 50.0,
+      "failed_attempts": 0.0,
+      "historical_inconsistency": 0.0,
+      "typing_deviation": 0.0
+    },
+    "token_issued": true,
+    "user_id": "run.check"
+  },
+  {
+    "anomaly_confidence": 50.0,
+    "captured_at": "2026-05-23T12:54:39.486719+00:00",
+    "decision": "allow",
+    "explanation": "Typing behavior deviates from the baseline with 50.0% anomaly confidence. Risk score 17.5 leads to a allow decision.",
+    "model_kind": "isolation_forest",
+    "risk_score": 17.5,
+    "session_id": "_R_1klrlb_",
+    "signals": {
+      "anomaly_confidence": 50.0,
+      "failed_attempts": 0.0,
+      "historical_inconsistency": 0.0,
+      "typing_deviation": 0.0
+    },
+    "token_issued": true,
+    "user_id": "run.check"
+  },
+  {
+    "anomaly_confidence": 0.0,
+    "captured_at": "2026-05-23T13:05:34.518820+00:00",
+    "decision": "allow",
+    "explanation": "Typing behavior deviates from the baseline with 0.0% anomaly confidence. Risk score 0.0 leads to a allow decision.",
+    "model_kind": "isolation_forest",
+    "risk_score": 0.0,
+    "session_id": "AUTO-doctor.singh",
+    "signals": {
+      "anomaly_confidence": 0.0,
+      "failed_attempts": 0.0,
+      "historical_inconsistency": 0.0,
+      "typing_deviation": 0.0
+    },
+    "token_issued": true,
+    "user_id": "doctor.singh"
+  },
+  {
+    "anomaly_confidence": 50.0,
+    "captured_at": "2026-05-23T13:05:50.982327+00:00",
+    "decision": "allow",
+    "explanation": "Typing behavior deviates from the baseline with 50.0% anomaly confidence. Risk score 17.5 leads to a allow decision.",
+    "model_kind": "isolation_forest",
+    "risk_score": 17.5,
+    "session_id": "AUTO-run.check",
+    "signals": {
+      "anomaly_confidence": 50.0,
+      "failed_attempts": 0.0,
+      "historical_inconsistency": 0.0,
+      "typing_deviation": 0.0
+    },
+    "token_issued": true,
+    "user_id": "run.check"
+  },
+  {
+    "anomaly_confidence": 0.0,
+    "captured_at": "2026-05-23T13:06:01.805218+00:00",
+    "decision": "allow",
+    "explanation": "Typing behavior deviates from the baseline with 0.0% anomaly confidence. Risk score 0.0 leads to a allow decision.",
+    "model_kind": "isolation_forest",
+    "risk_score": 0.0,
+    "session_id": "AUTO-test.user",
+    "signals": {
+      "anomaly_confidence": 0.0,
+      "failed_attempts": 0.0,
+      "historical_inconsistency": 0.0,
+      "typing_deviation": 0.0
+    },
+    "token_issued": true,
+    "user_id": "test.user"
+  },
+  {
+    "anomaly_confidence": 0.0,
+    "captured_at": "2026-05-23T13:06:15.932955+00:00",
+    "decision": "allow",
+    "explanation": "Typing behavior deviates from the baseline with 0.0% anomaly confidence. Risk score 0.0 leads to a allow decision.",
+    "model_kind": "isolation_forest",
+    "risk_score": 0.0,
+    "session_id": "AUTO-alice",
+    "signals": {
+      "anomaly_confidence": 0.0,
+      "failed_attempts": 0.0,
+      "historical_inconsistency": 0.0,
+      "typing_deviation": 0.0
+    },
+    "token_issued": true,
+    "user_id": "alice"
+  },
+  {
+    "anomaly_confidence": 0.0,
+    "captured_at": "2026-05-23T13:06:24.910332+00:00",
+    "decision": "allow",
+    "explanation": "Typing behavior deviates from the baseline with 0.0% anomaly confidence. Risk score 0.0 leads to a allow decision.",
+    "model_kind": "isolation_forest",
+    "risk_score": 0.0,
+    "session_id": "AUTO-bob",
+    "signals": {
+      "anomaly_confidence": 0.0,
+      "failed_attempts": 0.0,
+      "historical_inconsistency": 0.0,
+      "typing_deviation": 0.0
+    },
+    "token_issued": true,
+    "user_id": "bob"
+  },
+  {
+    "anomaly_confidence": 50.0,
+    "captured_at": "2026-05-23T13:08:58.645873+00:00",
+    "decision": "allow",
+    "explanation": "Typing behavior deviates from the baseline with 50.0% anomaly confidence. Risk score 17.5 leads to a allow decision.",
+    "model_kind": "isolation_forest",
+    "risk_score": 17.5,
+    "session_id": "AUTO-doctor.singh",
+    "signals": {
+      "anomaly_confidence": 50.0,
+      "failed_attempts": 0.0,
+      "historical_inconsistency": 0.0,
+      "typing_deviation": 0.0
+    },
+    "token_issued": true,
+    "user_id": "doctor.singh"
+  },
+  {
+    "anomaly_confidence": 50.0,
+    "captured_at": "2026-05-23T13:09:06.828973+00:00",
+    "decision": "allow",
+    "explanation": "Typing behavior deviates from the baseline with 50.0% anomaly confidence. Risk score 17.5 leads to a allow decision.",
+    "model_kind": "isolation_forest",
+    "risk_score": 17.5,
+    "session_id": "AUTO-run.check",
+    "signals": {
+      "anomaly_confidence": 50.0,
+      "failed_attempts": 0.0,
+      "historical_inconsistency": 0.0,
+      "typing_deviation": 0.0
+    },
+    "token_issued": true,
+    "user_id": "run.check"
+  },
+  {
+    "anomaly_confidence": 50.0,
+    "captured_at": "2026-05-23T13:09:14.223755+00:00",
+    "decision": "allow",
+    "explanation": "Typing behavior deviates from the baseline with 50.0% anomaly confidence. Risk score 17.5 leads to a allow decision.",
+    "model_kind": "isolation_forest",
+    "risk_score": 17.5,
+    "session_id": "AUTO-test.user",
+    "signals": {
+      "anomaly_confidence": 50.0,
+      "failed_attempts": 0.0,
+      "historical_inconsistency": 0.0,
+      "typing_deviation": 0.0
+    },
+    "token_issued": true,
+    "user_id": "test.user"
+  },
+  {
+    "anomaly_confidence": 50.0,
+    "captured_at": "2026-05-23T13:09:21.445166+00:00",
+    "decision": "allow",
+    "explanation": "Typing behavior deviates from the baseline with 50.0% anomaly confidence. Risk score 17.5 leads to a allow decision.",
+    "model_kind": "isolation_forest",
+    "risk_score": 17.5,
+    "session_id": "AUTO-alice",
+    "signals": {
+      "anomaly_confidence": 50.0,
+      "failed_attempts": 0.0,
+      "historical_inconsistency": 0.0,
+      "typing_deviation": 0.0
+    },
+    "token_issued": true,
+    "user_id": "alice"
+  },
+  {
+    "anomaly_confidence": 50.0,
+    "captured_at": "2026-05-23T13:09:28.878663+00:00",
+    "decision": "allow",
+    "explanation": "Typing behavior deviates from the baseline with 50.0% anomaly confidence. Risk score 17.5 leads to a allow decision.",
+    "model_kind": "isolation_forest",
+    "risk_score": 17.5,
+    "session_id": "AUTO-bob",
+    "signals": {
+      "anomaly_confidence": 50.0,
+      "failed_attempts": 0.0,
+      "historical_inconsistency": 0.0,
+      "typing_deviation": 0.0
+    },
+    "token_issued": true,
+    "user_id": "bob"
+  },
+  {
+    "anomaly_confidence": 50.0,
+    "captured_at": "2026-05-23T13:18:34.545085+00:00",
+    "decision": "allow",
+    "explanation": "Typing behavior deviates from the baseline with 50.0% anomaly confidence. Risk score 17.5 leads to a allow decision.",
+    "model_kind": "isolation_forest",
+    "risk_score": 17.5,
+    "session_id": "_R_1klrlb_",
+    "signals": {
+      "anomaly_confidence": 50.0,
+      "failed_attempts": 0.0,
+      "historical_inconsistency": 0.0,
+      "typing_deviation": 0.0
+    },
+    "token_issued": true,
+    "user_id": "doctor.singh"
+  }
+]
