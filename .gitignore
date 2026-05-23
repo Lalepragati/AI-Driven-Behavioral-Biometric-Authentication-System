@@ -21,3 +21,12 @@ frontend/node_modules/
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Prevent accidental commit of generated models and local data (nested backend folder)
+/backend/backend/data/
+/backend/backend/models/
+
+# Google service account files or other credentials
+*.service-account.json
+*-credentials.json
+service-account.json
