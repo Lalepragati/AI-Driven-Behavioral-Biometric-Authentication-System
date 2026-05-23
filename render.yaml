@@ -1,0 +1,24 @@
+services:
+  - type: web
+    name: behavioral-backend
+    env: python
+    plan: free
+    repo: https://github.com/Lalepragati/AI-Driven-Behavioral-Biometric-Authentication-System
+    branch: main
+    buildCommand: pip install -r backend/requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    disk: 512
+    instanceCount: 1
+    envVars:
+      - key: SECRET_KEY
+        fromDatabase: false
+        value: "change-me"
+      - key: GOOGLE_APPS_SCRIPT_WEBAPP_URL
+        fromDatabase: false
+        value: ""
+      - key: GOOGLE_APPS_SCRIPT_TOKEN
+        fromDatabase: false
+        value: ""
+      - key: CORS_ORIGINS
+        fromDatabase: false
+        value: "https://your-frontend.vercel.app,http://127.0.0.1:3000"

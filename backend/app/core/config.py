@@ -15,7 +15,8 @@ class Settings(BaseSettings):
     app_name: str = "Behavioral Authentication Platform"
     app_env: str = "development"
     api_v1_prefix: str = "/api/v1"
-    cors_origins: str = "http://localhost:3000"
+    # Allow both localhost and 127.0.0.1 origins used during local development
+    cors_origins: str = "http://localhost:3000,http://127.0.0.1:3000"
     secret_key: str = Field(default="change-me")
     access_token_expire_minutes: int = 120
     ollama_base_url: str = "http://localhost:11434"
